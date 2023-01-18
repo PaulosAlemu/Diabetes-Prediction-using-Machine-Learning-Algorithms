@@ -2,7 +2,6 @@
 The objective was to predict whether a patient has diabetes, based on certain diagnostic
 measurements included in the dataset. 
 The dataset is from the National Institute of Diabetes and Digestive and Kidney Diseases, John Hopkins University.   
-
 All patients are at least 21 years old, female, and of Pima Indian heritage.        
 
 
